@@ -2,14 +2,14 @@ Hello, and thank you for visiting my cloud Gits. I'm a generalist creative, prim
 
 I sign my work using AX.V.S. and it's visual represention something akin to this:
 
-![axvs!](artwork/axvs_slate_white_00_400x200.png)
+![axvs!](imgs/axvs_slate_white_00_400x200.png)
 
 
 # Packages
 
 ---
 
-![git_ghost!](artwork/git_ghost_socialpreview_00_1280x640.png)
+![git_ghost!](imgs/git_ghost_socialpreview_00_1280x640.png)
 
 https://github.com/thoughtcrimes/git_ghost_py
 
@@ -20,7 +20,7 @@ Developers may encounter situations where maintaining a separation between their
 ---
 
 
-![html_hero!](artwork/html_hero_socialpreview_00_1280x640.png)
+![html_hero!](imgs/html_hero_socialpreview_00_1280x640.png)
 
 https://github.com/thoughtcrimes/html_hero_py
 
