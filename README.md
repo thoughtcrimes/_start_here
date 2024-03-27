@@ -28,5 +28,8 @@ html_hero is a simple elegant html building tool designed to add components and 
 
 ---
 
-# Copyright for Artwork
-All artwork shown are copyrighted by AX.V.S ©2016-2024
+# Copyright for Artwork and Branding
+
+© 2016-2024 AX.V.S. All rights reserved.
+
+The artwork and branding featured herein are the intellectual property of AX.V.S. and are protected by copyright. Unauthorized reproduction, distribution, or use of these works is strictly prohibited without express permission from the copyright owner.
