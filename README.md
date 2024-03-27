@@ -25,3 +25,8 @@ Developers may encounter situations where maintaining a separation between their
 https://github.com/thoughtcrimes/html_hero_py
 
 html_hero is a simple elegant html building tool designed to add components and advanced processing to web development without invoking bulky opinionated frameworks. It introduces a streamlined component-insertion system, allowing developers to inject reusable elements into HTML pages seamlessly. During the build process, html_hero assembles these components into cohesive pages, resulting in clean, standard HTML. This ensures that developers retain complete command over both the source code and the final rendered output, marrying flexibility with simplicity in web page creation.
+
+---
+
+# Copyright for Artwork
+All artwork shown are copyrighted by AX.V.S ©2016-2024
